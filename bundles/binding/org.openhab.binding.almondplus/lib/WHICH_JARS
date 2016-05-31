@@ -1,0 +1,4 @@
+The following jar files will be placed in this directory by maven-dependency-plugin:copy.
+
+- async-http-client-1.8.5.jar
+- netty-3.9.4.Final.jar
